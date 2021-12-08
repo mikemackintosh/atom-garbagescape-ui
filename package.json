@@ -1,0 +1,25 @@
+{
+  "name": "garbagescape-ui",
+  "theme": "ui",
+  "version": "0.0.1",
+  "description": "A short description of your UI theme",
+  "keywords": [
+    "ui",
+    "suburb",
+    "garbage",
+    "scape",
+    "garbagescape",
+    "dark",
+    "bright",
+    "yummy",
+    "tastey",
+    "tasty",
+    "colorful",
+    "theme"
+  ],
+  "repository": "https://github.com/mikemackintosh/atom-garbagescape-ui",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
